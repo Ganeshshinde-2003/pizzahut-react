@@ -4,5 +4,5 @@ React's Pizzeria is a simple pizza ordering web application built using React an
 ## 🚀 Installation
 To install the project, simply clone the repository to your local machine and run npm install to install the dependencies.
 
-             git clone https://github.com/your-username/react-pizzeria.git
+             git clone [https://github.com/your-username/react-pizzeria.git](https://github.com/Ganeshshinde-2003/pizzahut-react.git)
              npm install
